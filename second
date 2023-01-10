@@ -1,0 +1,47 @@
+ 1192  sudo apt-get install git
+ 1193  git --version
+ 1194  git init
+ 1195  rm -rf .git
+ 1196  ls
+ 1197  rm -rf .git
+ 1198  cd Desktop
+ 1199  mkdir Dev-ops
+ 1200  cd Dev-ops
+ 1201  git init
+ 1202  cd ..
+ 1203  cd /home/dl0415/.git/
+ 1204  cd home/dl0415/.git/
+ 1205  cd Desktop
+ 1206  cd Dev-ops
+ 1207  git init
+ 1208  git init
+ 1209  cd ..
+ 1210  git init
+ 1211  rm -rf .git
+ 1212  cat home.html
+ 1213  cat < home
+ 1214  cd Desktop
+ 1215  cd Dev-ops
+ 1216  cat > home
+ 1217  git init
+ 1218  git commit -m "first commit"
+ 1219  git config --global user.email dhruv.ds@somaiya.edu
+ 1220  git commit -m "first commit"
+ 1221  git add .
+ 1222  git commit -m "first commit"
+ 1223  git branch -M main
+ 1224  git remote add origin https://github.com/dhruvsolanki0811/Devops-Lab.git
+ 1225  git push -u origin main
+ 1226  ls
+ 1227  git status
+ 1228  git restore home
+ 1229  git push -u origin main
+ 1230  git commit -m "2 commit"
+ 1231  cat > second
+ 1232  git add second
+ 1233  git status
+ 1234  git restore second
+ 1235  git status
+ 1236  git restore --staged second
+ 1237  git status
+ 1238  history > second
